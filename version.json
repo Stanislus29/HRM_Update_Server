@@ -1,5 +1,7 @@
 {
-  "version": "1.0.0",
+  "version_major": "1",
+  "version_minor": "0",
+  "version_patch": "0",
   "url":"https://raw.githubusercontent.com/Stanislus29/HRM_Update_Server/main/hrm_firmware.ino.bin"
 }
 
