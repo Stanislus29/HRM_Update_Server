@@ -1,8 +1,10 @@
 {
   "version_major": 1,
-  "version_minor": 1,
-  "version_patch": 0,
-  "url":"https://raw.githubusercontent.com/Stanislus29/HRM_Update_Server/main/hrm_firmware.ino.bin"
+  "version_minor": 2,
+  "version_patch": 1,
+  "url":"https://raw.githubusercontent.com/Stanislus29/HRM_Update_Server/main/hrm_firmware.ino.bin",
+  "sha256_hmac": "066663b6589ebf9f113a38bd919b4e56c3a67d8d3cb73b49ab01884857fc58aa",
+  "signature": "a7568ccd9d869c892e5cf8b015c75d3f3908f8667c07c178caeea8b0b3980c17f040b5dc8452e07b6442cbc05950365eecc944c18fb69e0b85e867aa9804b60c"
 }
 
 
